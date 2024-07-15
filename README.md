@@ -14,4 +14,4 @@ SVHN dataset: This dataset can be accessed from svhn_data folder via the below G
 CIFAR10: This dataset can be easily loaded from keras.datasets from Tensorflow library.
 Link for SVHN dataset: https://drive.google.com/drive/folders/1UvoPyBupHa9e4YbZsVHwKu_ijeUw_oV4?usp=sharing
 
-*Note: A cell might contain big function code in the file attached, leading to incomplete code visibility. Please download the raw .ipynb file to look get complete code implementation.*
+***Note: A cell might contain big function code in the file attached, leading to incomplete code visibility. Please download the raw .ipynb file to get complete code implementation.*
